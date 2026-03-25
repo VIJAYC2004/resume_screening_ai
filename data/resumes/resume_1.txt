@@ -1,0 +1,47 @@
+Name: Arjun Kumar
+Email: arjun.kumar@example.com
+Phone: +91-98765-12345
+Location: Bengaluru, India
+
+Professional Summary
+Software Engineer with 3+ years of experience building web applications and backend services using Python, Django, and REST APIs. Strong focus on clean architecture, testing, and performance optimization. Interested in scalable systems and cloud-native development.
+
+Skills
+Programming: Python, JavaScript, TypeScript, SQL
+Frameworks: Django, FastAPI, React, Node.js
+Databases: PostgreSQL, MySQL, Redis
+Tools: Git, Docker, Kubernetes, Linux
+Cloud: AWS (EC2, S3, RDS), GCP basics
+Other: REST APIs, unit testing, CI/CD, Agile
+
+Experience
+Software Engineer | TechNova Solutions | Bengaluru, India
+Jan 2023 – Present
+- Designed and implemented RESTful APIs in Django and FastAPI for a SaaS analytics platform used by 50+ B2B clients.
+- Optimized database queries and caching strategy, reducing API response time by 40%.
+- Integrated third-party payment gateways and authentication providers (OAuth2, JWT).
+- Wrote unit and integration tests, achieving 85% code coverage and improving release stability.
+
+Junior Software Engineer | CodeSphere Labs | Bengaluru, India
+Aug 2021 – Dec 2022
+- Developed internal tools in Python and React to automate report generation and log analysis.
+- Migrated a legacy monolith to a modular service-based architecture, improving deployment speed.
+- Collaborated with product and QA teams in Agile sprints to deliver features on time.
+
+Projects
+Issue Tracker App
+- Built a full-stack issue tracking system using React, Django, and PostgreSQL.
+- Implemented role-based access control and email notifications for critical events.
+
+URL Shortener Service
+- Developed a URL shortening service with FastAPI and Redis.
+- Implemented rate limiting and click analytics dashboards.
+
+Education
+B.E. in Computer Science and Engineering
+Visvesvaraya Technological University, Karnataka
+2017 – 2021
+
+Additional
+- Participated in multiple hackathons and won 2nd place in a cloud-native app challenge.
+- Open-source contributions to Python and Django-based projects on GitHub.

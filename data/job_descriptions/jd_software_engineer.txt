@@ -1,0 +1,4 @@
+We are looking for a Software Engineer with strong experience in Python, machine learning,
+and NLP. Responsibilities include building data pipelines, training and deploying models,
+and collaborating with cross-functional teams. Experience with TensorFlow or PyTorch,
+REST APIs, and cloud platforms is preferred.

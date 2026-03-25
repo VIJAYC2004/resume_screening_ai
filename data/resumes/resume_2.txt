@@ -1,0 +1,48 @@
+Name: Sana Fatima
+Email: sana.fatima@example.com
+Phone: +91-98765-67890
+Location: Hyderabad, India
+
+Professional Summary
+Data Scientist with 2+ years of experience building machine learning models for classification, forecasting, and recommendation systems. Strong background in Python, statistics, and NLP, with experience deploying models to production APIs.
+
+Skills
+Programming: Python, SQL, R (basic)
+ML & Stats: Supervised/unsupervised learning, regression, classification, clustering, time series
+Libraries: NumPy, pandas, scikit-learn, TensorFlow, PyTorch, XGBoost
+NLP: Text preprocessing, word embeddings, transformers, sentiment analysis
+Data: ETL, feature engineering, data cleaning, visualization (Matplotlib, Seaborn, Plotly)
+Tools: Git, Docker, Jupyter, Airflow
+Cloud: AWS (SageMaker, S3, Lambda) basics
+
+Experience
+Data Scientist | Insight Analytics Pvt. Ltd. | Hyderabad, India
+Feb 2023 – Present
+- Built churn prediction models using scikit-learn and XGBoost, improving retention targeting and reducing churn by an estimated 10%.
+- Developed customer segmentation using clustering techniques to support personalized marketing.
+- Created dashboards with Plotly and internal BI tools to share insights with stakeholders.
+- Collaborated with engineering team to expose trained models as REST APIs.
+
+Junior Data Scientist | DataSense Labs | Hyderabad, India
+Jul 2021 – Jan 2023
+- Performed data cleaning, feature engineering, and exploratory analysis on large transactional datasets.
+- Implemented baseline classification models and evaluated performance using precision, recall, F1 score, and ROC AUC.
+- Assisted in building an NLP pipeline for document classification and keyword extraction.
+
+Projects
+Resume Screening NLP System
+- Implemented a prototype that converts resumes and job descriptions into embeddings using sentence-transformer models and ranks candidates by cosine similarity.
+- Evaluated different models and preprocessing strategies to improve semantic matching.
+
+Sales Forecasting Model
+- Built a time-series forecasting model for monthly sales using Prophet and LSTM.
+- Improved forecast accuracy compared to existing rule-based estimates.
+
+Education
+M.Sc. in Data Science
+University of Hyderabad, Telangana
+2019 – 2021
+
+Additional
+- Published a blog series on data preprocessing, feature engineering, and model evaluation.
+- Participated in Kaggle competitions focused on NLP and tabular data.
